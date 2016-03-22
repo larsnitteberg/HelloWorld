@@ -12,5 +12,11 @@ namespace GitTest
         {
             //Project start
         }
+
+
+        static int MyValue()
+        {
+            return 10;
+        }
     }
 }
