@@ -12,5 +12,10 @@ namespace GitTest
         {
             //Project start
         }
+
+        static void HelloWorld()
+        {
+
+        }
     }
 }
